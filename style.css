@@ -9,6 +9,7 @@ ul,ol,menu {
     list-style: none;
 }
 
+/* NAVBAR */
 header {
     background-color: white;
     padding-left: 20px;
@@ -23,6 +24,7 @@ body {
     background-color: #e1e4e6;
 }
 
+/* MAINCARD */
 .container-card {
     background-color: white;
     margin-left: auto;
@@ -36,6 +38,7 @@ body {
     padding: 100px 0;
 }
 
+/* BUTTON */
 .button {
     border-radius: 3px;
     width: auto;
@@ -59,11 +62,13 @@ body {
     padding-inline: 7px;
 }
 
+/* LINE */
 .line {
     border-color:#e1e4e6;
     height: 2px;
 }
 
+/* LIST */
 .l-title {
     margin-top: 15px;
 }
@@ -72,6 +77,7 @@ body {
     margin: 10px
 }
 
+/* PARAGRAPH */
 .playlist-item p {
     display: inline;
     vertical-align: text-bottom;
@@ -88,6 +94,7 @@ body {
     width: auto;
 }
 
+/* COLOR-TAGS */
 .Editorial-tag {
     background-color: rgb(44, 159, 236);
     color: white;
